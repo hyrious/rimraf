@@ -1,6 +1,6 @@
 {
   "name": "@hyrious/rimraf",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Just fs.promises.rm and fs.rmSync.",
   "author": "hyrious <hyrious@outlook.com>",
   "license": "MIT",
