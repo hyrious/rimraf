@@ -1,0 +1,14 @@
+{
+  "name": "@hyrious/rimraf",
+  "version": "0.0.1",
+  "description": "Just fs.promises.rm and fs.rmSync.",
+  "author": "hyrious <hyrious@outlook.com>",
+  "license": "MIT",
+  "repository": "hyrious/rimraf",
+  "type": "module",
+  "exports": "./index.js",
+  "bin": "./bin.js",
+  "engines": {
+    "node": ">=14.14.0"
+  }
+}
